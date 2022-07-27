@@ -1,27 +1,11 @@
-# Login
+Tela de login e menu com single page alterando somente o conteúdo. Criado com angular e java Script.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
 
-## Development server
+![image](https://user-images.githubusercontent.com/102190872/181254823-8a550fdf-a15d-4461-893a-48146f9a7a0b.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+![image](https://user-images.githubusercontent.com/102190872/181255305-8a9478f9-351d-4553-9f3f-66373bff2d6b.png)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![image](https://user-images.githubusercontent.com/102190872/181255418-7e384b79-ae9c-4214-9648-b63d528a0792.png)
