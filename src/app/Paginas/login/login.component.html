@@ -1,0 +1,42 @@
+<div class="container-login">
+  <div class="img-box">
+      <img src="assets/icon/bg.svg">
+  </div>
+  <div class="content-box">
+      <div class="form-box">
+          <h2>Login</h2>
+          <form [formGroup]="loginForm">
+              <div class="input-box">
+
+                  <input type="email" placeholder="E-mail" formControlName>
+              </div>
+
+              <div class="input-box">
+
+                  <input type="password" placeholder="senha">
+              </div>
+
+              <div class="remember">
+                  <label>
+                      <input type="checkbox"> Lembra-me
+                  </label>
+                  <a href="#">Esqueceu a Senha?</a>
+              </div>
+
+              <div class="input-box">
+                  <input type="submit"[routerLink]="['/home']" value="Entrar">
+              </div>
+
+              <div class="input-box">
+                 <p>Não Tem Uma Conta? <a href="#">Inscrever-se</a></p>
+              </div>
+          </form>
+          <h3>Logar Com</h3>
+          <ul class="ul">
+              <li><img src="assets/icon/facebook.png"></li>
+              <li><img src="assets/icon/google.png"></li>
+              <li><img src="assets/icon/instagram.png"></li>
+          </ul>
+      </div>
+  </div>
+</div>
