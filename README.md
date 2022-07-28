@@ -3,7 +3,7 @@
 
 ## 🧾 About
 
-**Projeto com angular** Login screen with single page dropdown menu where you only change the content..
+**project with angle** Login screen with single page dropdown menu where you only change the content..
 
 ## 🔧 Tools
 
