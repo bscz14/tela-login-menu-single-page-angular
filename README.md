@@ -1,4 +1,44 @@
-Tela de login e menu com single page alterando somente o conteúdo. Criado com angular e java Script.
+
+
+
+## 🧾 About
+
+**Projeto com angular** Login screen with single page dropdown menu where you only change the content..
+
+## 🔧 Tools
+
+- [Nodejs](https://nodejs.org/en/) 💚
+- [Angular](https://angular.io/guide/setup-local)
+- [Bootstrap](https://getbootstrap.com/)
+
+## 👨‍💻 How to Setup
+
+```bash
+  # Clone the project
+  $ git clone https://github.com/bscz14/tela-login-menu-single-page-angular.git
+```
+```bash
+  # Enter directory
+  $ cd tela-login-menu-single-page-angular
+```
+
+```bash
+  # Install the dependencies, if you use npm
+  $ npm install -g @angular/cli
+```
+<p align="center">or</p>
+
+```bash
+  # start the project
+  $ ng serve
+```
+
+
+
+---
+
+<p align="center">Done with Bruno Souza Carneiro</p>
+
 
 
 ![image](https://user-images.githubusercontent.com/102190872/181254823-8a550fdf-a15d-4461-893a-48146f9a7a0b.png)
